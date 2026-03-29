@@ -1,0 +1,26 @@
+/*!
+ * Font Awesome Pro 7.1.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Commercial License)
+ * Copyright 2025 Fonticons, Inc.
+ */
+:host,:root{--fa-family-duotone:"Font Awesome 7 Duotone";--fa-font-duotone-light:normal 300 1em/1 var(--fa-family-duotone);--fa-style-family-duotone:var(--fa-family-duotone)}@font-face{font-family:"Font Awesome 7 Duotone";font-style:normal;font-weight:300;font-display:block;src:url(https://cdn.jsdelivr.net/gh/cyfairwebdev/cyfair.web.css.icons/webfont/webfonts/fa-duotone-light-300.woff2)}.fadl{--fa-style:300}.fa-duotone,.fadl{--fa-family:var(--fa-family-duotone);position:relative;letter-spacing:normal}.fa-light{--fa-style:300}.fa-duotone:before,.fadl:before{position:absolute;color:var(--fa-primary-color,currentColor);opacity:var(--fa-primary-opacity,1)}.fa-duotone:after,.fadl:after{color:var(--fa-secondary-color,currentColor)}.fa-duotone:after,.fa-swap-opacity.fa-duotone:before,.fa-swap-opacity .fa-duotone:before,.fa-swap-opacity.fadl:before,.fa-swap-opacity .fadl:before,.fadl:after{opacity:var(--fa-secondary-opacity,.4)}.fa-swap-opacity.fa-duotone:after,.fa-swap-opacity .fa-duotone:after,.fa-swap-opacity.fadl:after,.fa-swap-opacity .fadl:after{opacity:var(--fa-primary-opacity,1)}.fa-li.fa-duotone,.fa-li.fadl,.fa-stack-1x.fa-duotone,.fa-stack-1x.fadl,.fa-stack-2x.fa-duotone,.fa-stack-2x.fadl{position:absolute}
+/*
+     FILE ARCHIVED ON 00:02:33 Feb 07, 2026 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:55:14 Mar 28, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.936
+  exclusion.robots: 0.086
+  exclusion.robots.policy: 0.072
+  esindex: 0.014
+  cdx.remote: 21.919
+  LoadShardBlock: 551.16 (6)
+  PetaboxLoader3.datanode: 498.228 (8)
+  PetaboxLoader3.resolve: 293.152 (3)
+  load_resource: 364.604 (2)
+*/
