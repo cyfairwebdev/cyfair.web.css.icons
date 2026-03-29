@@ -3,7 +3,7 @@
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2025 Fonticons, Inc.
  */
-:host,:root{--fa-family-classic:"Font Awesome 7 Pro";--fa-font-light:normal 300 1em/1 var(--fa-family-classic);--fa-style-family-classic:var(--fa-family-classic)}@font-face{font-family:"Font Awesome 7 Pro";font-style:normal;font-weight:300;font-display:block;src:url(https://cdn.jsdelivr.net/gh/cyfairwebdev/cyfair.web.css.icons/webfont/webfonts/fa-light-300.woff2)}.fal{--fa-style:300}.fa-classic,.fal{--fa-family:var(--fa-family-classic)}.fa-light{--fa-style:300}
+:host,:root{--fa-family-classic:"Font Awesome 7 Pro";--fa-font-light:normal 300 1em/1 var(--fa-family-classic);--fa-style-family-classic:var(--fa-family-classic)}@font-face{font-family:"Font Awesome 7 Pro";font-style:normal;font-weight:300;font-display:block;src:url(https://cdn.jsdelivr.net/gh/cyfairwebdev/cyfair.web.css.icons/webfont/fa-light-300.woff2)}.fal{--fa-style:300}.fa-classic,.fal{--fa-family:var(--fa-family-classic)}.fa-light{--fa-style:300}
 /*
      FILE ARCHIVED ON 00:02:33 Feb 07, 2026 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 21:55:22 Mar 28, 2026.
